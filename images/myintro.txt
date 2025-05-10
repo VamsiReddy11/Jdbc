@@ -1,0 +1,55 @@
+Vamsi Siva Kumar Reddy Singam
+ vamsisivakumarreddy@gmail.com
+ 9014747542
+ www.linkedin.com/in/vamsireddysingam
+Career Objective:
+ To obtain employment with a company that offers a positive atmosphere to learn and implement new
+skills and technologies for the fulfilment of personal and organizational goals.
+Educational Qualification:
+Course College 
+Board/University
+Year CGPA/Percentage
+B. Tech
+(EEE)
+Narasaraopeta
+Engineering College,
+Narasaraopeta.
+Jawaharlal Nehru
+Technological 
+University,Kakinada 
+(JNTUK)
+2020-23
+ 
+ 8.45 
+Diploma
+ (EEE)
+Government Polytechnic 
+College, Vempalli
+ 
+ SBTET 2017-20 79.75%
+ SSE
+Sri Sai Charan High 
+School,Tippaluru SSC 2016-17 8.3
+ 
+Technical Skills:
+ Programming skills : Core Java, Html, CSS, JDBC 
+ Databases : MySQL 
+ Frameworks : Hibernate
+ Developer Tools :Visual Studio code, Eclipse
+Academic Projects:
+Major Project:
+• Title: Wireless Battery Charging for Electrical Vehicles
+• Description: The main aim of my project is to wirelessly charge the battery whenever a vehicle
+Is placed. An IR sensor detects the vehicle and transfers power from the transmission coil to the
+receiving coil, charging the battery.
+Mini project:
+• Title: IOT Based Home Automation using NODE MCU
+• Description: Automatic and electronic control of household appliances.it means you can easily 
+control the utilities and features of your home via the internet to make life more convenient and 
+secure, and even spend less on household bills
+Certifications:
+• Certified on Java Full stack Development at TAP ACADEMY
+• NPTEL certification in the course of DC microgrid and control systems
+Declaration:
+I hereby declare that the above-mentioned particulars are genuine to the best of my knowledge.
+ S. Vamsi Siva Kumar Reddy 

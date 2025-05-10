@@ -1,0 +1,52 @@
+package jdbc;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class program2 {
+		public static Connection connection;
+		public static Statement statement;
+
+		public static void main(String[] args) {
+			String url = "jdbc:mysql://localhost:3306/jdbcclasses";
+			String username="root";
+			String password = "vamsi";
+		
+			String sql = "insert into `student`(`id`,`name`,`email`,`dept`,`salary`) values(4,'dileep','dileep@gmail.com','it',50000)";
+			try {
+				Class.forName("com.mysql.cj.jdbc.Driver");
+				connection = DriverManager.getConnection(url, username, password);
+				
+				jdbc2.display(null, statement,connection);
+				
+				statement = connection.createStatement();
+				
+			
+				int i=statement.executeUpdate(sql);
+				
+				
+				System.out.println(i);
+				
+				System.out.println();
+				jdbc2.display(null, statement,connection);
+
+				
+				
+				
+				
+			} catch (ClassNotFoundException e) {
+				e.printStackTrace();
+				
+			
+			} catch (SQLException e) {
+				
+				e.printStackTrace();
+			}
+
+		
+
+	}
+
+}
